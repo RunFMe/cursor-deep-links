@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cursor Deep Links"
+  short_description: "Clickable cursor:// links for local and SSH files"
+  default_prompt: "Use $creating-cursor-deep-links to give me a link that opens this in Cursor."
